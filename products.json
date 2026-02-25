@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": "sv1-de-etb",
+      "set": "Karmesin & Purpur",
+      "language": "DE",
+      "type": "Elite Trainer Box",
+      "name": "Karmesin & Purpur Elite Trainer Box",
+      "releaseDate": "2023-01-20",
+      "image": "",
+      "contents": [
+        "9 Boosterpacks",
+        "Hüllen",
+        "Würfel",
+        "Marker"
+      ]
+    }
+  ]
+}
