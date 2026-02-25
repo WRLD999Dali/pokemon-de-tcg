@@ -5,7 +5,7 @@
       "set": "Karmesin & Purpur",
       "language": "DE",
       "type": "Elite Trainer Box",
-      "name": "Karmesin & Purpur ETB",
+      "name": "Karmesin & Purpur – ETB",
       "releaseDate": "2023-03-31",
       "image": "",
       "contents": [
@@ -15,58 +15,108 @@
         "Zustandsmarker"
       ]
     },
-
     {
       "id": "sv1-de-display",
       "set": "Karmesin & Purpur",
       "language": "DE",
       "type": "Booster Display",
-      "name": "Karmesin & Purpur Booster Display",
+      "name": "Karmesin & Purpur – Display",
       "releaseDate": "2023-03-31",
       "image": "",
       "contents": [
         "36 Boosterpacks"
       ]
     },
-
     {
       "id": "sv1-de-booster",
       "set": "Karmesin & Purpur",
       "language": "DE",
       "type": "Booster",
-      "name": "Karmesin & Purpur Booster",
+      "name": "Karmesin & Purpur – Booster",
       "releaseDate": "2023-03-31",
       "image": "",
       "contents": [
-        "1 Boosterpack (10 Karten)"
+        "10 Karten"
       ]
     },
 
     {
       "id": "sv2-de-etb",
-      "set": "Karmesin & Purpur – Entwicklungen in Paldea",
+      "set": "Entwicklungen in Paldea",
       "language": "DE",
       "type": "Elite Trainer Box",
-      "name": "Entwicklungen in Paldea ETB",
+      "name": "Entwicklungen in Paldea – ETB",
       "releaseDate": "2023-06-09",
       "image": "",
       "contents": [
         "9 Boosterpacks",
-        "Kartenhüllen",
-        "Würfel & Marker"
+        "65 Kartenhüllen",
+        "Würfel",
+        "Marker"
       ]
     },
-
     {
       "id": "sv2-de-display",
-      "set": "Karmesin & Purpur – Entwicklungen in Paldea",
+      "set": "Entwicklungen in Paldea",
       "language": "DE",
       "type": "Booster Display",
-      "name": "Entwicklungen in Paldea Display",
+      "name": "Entwicklungen in Paldea – Display",
       "releaseDate": "2023-06-09",
       "image": "",
       "contents": [
         "36 Boosterpacks"
+      ]
+    },
+    {
+      "id": "sv2-de-booster",
+      "set": "Entwicklungen in Paldea",
+      "language": "DE",
+      "type": "Booster",
+      "name": "Entwicklungen in Paldea – Booster",
+      "releaseDate": "2023-06-09",
+      "image": "",
+      "contents": [
+        "10 Karten"
+      ]
+    },
+
+    {
+      "id": "sv3-de-etb",
+      "set": "Obsidianflammen",
+      "language": "DE",
+      "type": "Elite Trainer Box",
+      "name": "Obsidianflammen – ETB",
+      "releaseDate": "2023-08-11",
+      "image": "",
+      "contents": [
+        "9 Boosterpacks",
+        "Kartenhüllen",
+        "Würfel",
+        "Marker"
+      ]
+    },
+    {
+      "id": "sv3-de-display",
+      "set": "Obsidianflammen",
+      "language": "DE",
+      "type": "Booster Display",
+      "name": "Obsidianflammen – Display",
+      "releaseDate": "2023-08-11",
+      "image": "",
+      "contents": [
+        "36 Boosterpacks"
+      ]
+    },
+    {
+      "id": "sv3-de-booster",
+      "set": "Obsidianflammen",
+      "language": "DE",
+      "type": "Booster",
+      "name": "Obsidianflammen – Booster",
+      "releaseDate": "2023-08-11",
+      "image": "",
+      "contents": [
+        "10 Karten"
       ]
     }
   ]
