@@ -5,14 +5,68 @@
       "set": "Karmesin & Purpur",
       "language": "DE",
       "type": "Elite Trainer Box",
-      "name": "Karmesin & Purpur Elite Trainer Box",
-      "releaseDate": "2023-01-20",
+      "name": "Karmesin & Purpur ETB",
+      "releaseDate": "2023-03-31",
       "image": "",
       "contents": [
         "9 Boosterpacks",
-        "Hüllen",
+        "65 Kartenhüllen",
         "Würfel",
-        "Marker"
+        "Zustandsmarker"
+      ]
+    },
+
+    {
+      "id": "sv1-de-display",
+      "set": "Karmesin & Purpur",
+      "language": "DE",
+      "type": "Booster Display",
+      "name": "Karmesin & Purpur Booster Display",
+      "releaseDate": "2023-03-31",
+      "image": "",
+      "contents": [
+        "36 Boosterpacks"
+      ]
+    },
+
+    {
+      "id": "sv1-de-booster",
+      "set": "Karmesin & Purpur",
+      "language": "DE",
+      "type": "Booster",
+      "name": "Karmesin & Purpur Booster",
+      "releaseDate": "2023-03-31",
+      "image": "",
+      "contents": [
+        "1 Boosterpack (10 Karten)"
+      ]
+    },
+
+    {
+      "id": "sv2-de-etb",
+      "set": "Karmesin & Purpur – Entwicklungen in Paldea",
+      "language": "DE",
+      "type": "Elite Trainer Box",
+      "name": "Entwicklungen in Paldea ETB",
+      "releaseDate": "2023-06-09",
+      "image": "",
+      "contents": [
+        "9 Boosterpacks",
+        "Kartenhüllen",
+        "Würfel & Marker"
+      ]
+    },
+
+    {
+      "id": "sv2-de-display",
+      "set": "Karmesin & Purpur – Entwicklungen in Paldea",
+      "language": "DE",
+      "type": "Booster Display",
+      "name": "Entwicklungen in Paldea Display",
+      "releaseDate": "2023-06-09",
+      "image": "",
+      "contents": [
+        "36 Boosterpacks"
       ]
     }
   ]
