@@ -40,6 +40,7 @@
       ]
     },
 
+
     {
       "id": "sv2-de-etb",
       "set": "Entwicklungen in Paldea",
@@ -50,7 +51,7 @@
       "image": "",
       "contents": [
         "9 Boosterpacks",
-        "65 Kartenhüllen",
+        "Kartenhüllen",
         "Würfel",
         "Marker"
       ]
@@ -79,6 +80,7 @@
         "10 Karten"
       ]
     },
+
 
     {
       "id": "sv3-de-etb",
@@ -118,6 +120,283 @@
       "contents": [
         "10 Karten"
       ]
+    },
+
+
+    {
+      "id": "swsh1-de-display",
+      "set": "Schwert & Schild – Basis-Set",
+      "language": "DE",
+      "type": "Booster Display",
+      "name": "Schwert & Schild – Display",
+      "releaseDate": "2020-02-07",
+      "image": "",
+      "contents": [
+        "36 Boosterpacks"
+      ]
+    },
+    {
+      "id": "swsh1-de-etb",
+      "set": "Schwert & Schild – Basis-Set",
+      "language": "DE",
+      "type": "Elite Trainer Box",
+      "name": "Schwert & Schild – ETB",
+      "releaseDate": "2020-02-07",
+      "image": "",
+      "contents": [
+        "8 Boosterpacks"
+      ]
+    },
+
+    {
+      "id": "swsh2-de-display",
+      "set": "Rebel Clash",
+      "language": "DE",
+      "type": "Booster Display",
+      "name": "Rebel Clash – Display",
+      "releaseDate": "2020-05-01",
+      "image": "",
+      "contents": [
+        "36 Boosterpacks"
+      ]
+    },
+    {
+      "id": "swsh2-de-etb",
+      "set": "Rebel Clash",
+      "language": "DE",
+      "type": "Elite Trainer Box",
+      "name": "Rebel Clash – ETB",
+      "releaseDate": "2020-05-01",
+      "image": "",
+      "contents": [
+        "8 Boosterpacks"
+      ]
+    },
+
+    {
+      "id": "swsh3-de-display",
+      "set": "Flammen der Finsternis",
+      "language": "DE",
+      "type": "Booster Display",
+      "name": "Flammen der Finsternis – Display",
+      "releaseDate": "2020-08-14",
+      "image": "",
+      "contents": [
+        "36 Boosterpacks"
+      ]
+    },
+    {
+      "id": "swsh3-de-etb",
+      "set": "Flammen der Finsternis",
+      "language": "DE",
+      "type": "Elite Trainer Box",
+      "name": "Flammen der Finsternis – ETB",
+      "releaseDate": "2020-08-14",
+      "image": "",
+      "contents": [
+        "8 Boosterpacks"
+      ]
+    },
+
+    {
+      "id": "swsh4-de-display",
+      "set": "Farbenschock",
+      "language": "DE",
+      "type": "Booster Display",
+      "name": "Farbenschock – Display",
+      "releaseDate": "2020-11-13",
+      "image": "",
+      "contents": [
+        "36 Boosterpacks"
+      ]
+    },
+    {
+      "id": "swsh4-de-etb",
+      "set": "Farbenschock",
+      "language": "DE",
+      "type": "Elite Trainer Box",
+      "name": "Farbenschock – ETB",
+      "releaseDate": "2020-11-13",
+      "image": "",
+      "contents": [
+        "8 Boosterpacks"
+      ]
+    },
+
+    {
+      "id": "swsh5-de-display",
+      "set": "Kampfstile",
+      "language": "DE",
+      "type": "Booster Display",
+      "name": "Kampfstile – Display",
+      "releaseDate": "2021-03-19",
+      "image": "",
+      "contents": [
+        "36 Boosterpacks"
+      ]
+    },
+    {
+      "id": "swsh5-de-etb",
+      "set": "Kampfstile",
+      "language": "DE",
+      "type": "Elite Trainer Box",
+      "name": "Kampfstile – ETB",
+      "releaseDate": "2021-03-19",
+      "image": "",
+      "contents": [
+        "8 Boosterpacks"
+      ]
+    },
+
+    {
+      "id": "swsh6-de-display",
+      "set": "Schaurige Herrschaft",
+      "language": "DE",
+      "type": "Booster Display",
+      "name": "Schaurige Herrschaft – Display",
+      "releaseDate": "2021-06-18",
+      "image": "",
+      "contents": [
+        "36 Boosterpacks"
+      ]
+    },
+    {
+      "id": "swsh6-de-etb",
+      "set": "Schaurige Herrschaft",
+      "language": "DE",
+      "type": "Elite Trainer Box",
+      "name": "Schaurige Herrschaft – ETB",
+      "releaseDate": "2021-06-18",
+      "image": "",
+      "contents": [
+        "8 Boosterpacks"
+      ]
+    },
+
+    {
+      "id": "swsh7-de-display",
+      "set": "Drachenwandel",
+      "language": "DE",
+      "type": "Booster Display",
+      "name": "Drachenwandel – Display",
+      "releaseDate": "2021-08-27",
+      "image": "",
+      "contents": [
+        "36 Boosterpacks"
+      ]
+    },
+    {
+      "id": "swsh7-de-etb",
+      "set": "Drachenwandel",
+      "language": "DE",
+      "type": "Elite Trainer Box",
+      "name": "Drachenwandel – ETB",
+      "releaseDate": "2021-08-27",
+      "image": "",
+      "contents": [
+        "8 Boosterpacks"
+    ]
     }
-  ]
-}
+,
+    {
+      "id": "shf-de-etb",
+      "set": "Glänzendes Schicksal",
+      "language": "DE",
+      "type": "Elite Trainer Box",
+      "name": "Glänzendes Schicksal – ETB",
+      "releaseDate": "2021-02-19",
+      "image": "",
+      "contents": [
+        "10 Boosterpacks",
+        "Shiny VMAX Promo",
+        "Hüllen",
+        "Würfel",
+        "Marker"
+     ]
+     },
+     {
+      "id": "shf-de-tin",
+      "set": "Glänzendes Schicksal",
+      "language": "DE",
+      "type": "Tin Box",
+      "name": "Glänzendes Schicksal – Tin (verschiedene Designs)",
+      "releaseDate": "2021-02-19",
+      "image": "",
+      "contents": [
+        "6 Boosterpacks",
+        "Promo-Karte"
+      ]
+    },
+    {
+      "id": "cel-de-collection",
+      "set": "Celebrations",
+      "language": "DE",
+      "type": "Kollektion",
+      "name": "Celebrations – Kollektion (diverse Boxen)",
+      "releaseDate": "2021-10-08",
+      "image": "",
+      "contents": [
+        "4–10 Celebrations Booster",
+        "Promokarten",
+        "Zusatzbooster"
+      ]
+    },
+    {
+      "id": "cel-de-etb",
+      "set": "Celebrations",
+      "language": "DE",
+      "type": "Elite Trainer Box",
+      "name": "Celebrations – ETB",
+      "releaseDate": "2021-10-08",
+      "image": "",
+      "contents": [
+        "10 Celebrations Booster",
+        "5 reguläre Booster",
+        "Promokarte",
+        "Hüllen"
+      ]
+    },
+    {
+      "id": "go-de-collection",
+      "set": "Pokémon GO",
+      "language": "DE",
+      "type": "Kollektion",
+      "name": "Pokémon GO – Kollektionen (verschiedene Boxen)",
+      "releaseDate": "2022-07-01",
+      "image": "",
+      "contents": [
+        "Pokémon GO Booster (6–10 Stück)",
+        "Promokarten",
+        "Sticker"
+      ]
+    },
+    {
+      "id": "go-de-etb",
+      "set": "Pokémon GO",
+      "language": "DE",
+      "type": "Elite Trainer Box",
+      "name": "Pokémon GO – ETB",
+      "releaseDate": "2022-07-01",
+      "image": "",
+      "contents": [
+        "10 Boosterpacks",
+        "Hüllen",
+        "Promokarte"
+      ]
+    },
+    {
+      "id": "sv4-de-premium",
+      "set": "Paradoxrift",
+      "language": "DE",
+      "type": "Premium Kollektion",
+      "name": "Paradoxrift – Premium Kollektion",
+      "releaseDate": "2023-11-03",
+      "image": "",
+      "contents": [
+        "11 Boosterpacks",
+        "Promokarten",
+        "Oversize-Karte"
+      ]
+    }
+
+
